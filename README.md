@@ -50,7 +50,7 @@
 ![Megascans](https://img.shields.io/badge/-Megascans-1c1c1c?style=plastic&logo=megascans&logoColor=ff0000&labelColor=1c1c1c)&nbsp;
 
 ```diff
-- ~$ searching/cerebrum
+- ~$ searching /cerebrum
 ```
 ![GANs](https://img.shields.io/badge/-GANs-1c1c1c?style=plastic&logo=gan&logoColor=ff0000&logoWidth=10)&nbsp;
 ![NeuraLink](https://img.shields.io/badge/-NeuraLink-1c1c1c?style=plastic&logo=neuralink&logoColor=ff0000&logoWidth=10)&nbsp;
@@ -59,7 +59,7 @@
 ![Multimodal DL](https://img.shields.io/badge/-Multimodal_Deep_Learning-1c1c1c?style=plastic&logo=ai&logoColor=ff0000&logoWidth=10)&nbsp;
 
 ```diff
-@@ ~$ current_ip/locate @@
+@@ ~$ locate /current_ip @@
 ```
 <a href="mailto:inamesmerisingway@gmail.com"><img alt="pathToRoot" src="https://img.shields.io/badge/pathToRoot-1c1c1c?style=plastic&logo=gmail&logoColor=ff0000" /></a>&nbsp;
 ![version:21.10.03](https://img.shields.io/badge/version-21.10.03-1c1c1c?labelColor=ff0000) &nbsp;
