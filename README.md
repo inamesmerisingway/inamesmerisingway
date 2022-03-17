@@ -45,7 +45,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1c1c1c?style=plastic&logo=adobephotoshop&logoColor=ff0000&logoWidth=10)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-1c1c1c?style=plastic&logo=Adobe%20After%20Effects&logoColor=ff0000&logoWidth=10)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-1c1c1c?style=plastic&logo=unity&logoColor=ff0000&logoWidth=10)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/-After_Effects-1c1c1c?style=plastic&logo=unrealengine&logoColor=ff0000&logoWidth=10)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-1c1c1c?style=plastic&logo=unrealengine&logoColor=ff0000&logoWidth=10)&nbsp;
 ![Quixel](https://img.shields.io/badge/-Quixel-1c1c1c?style=plastic&logo=quixel&logoColor=ff0000&labelColor=1c1c1c)&nbsp;
 ![Megascans](https://img.shields.io/badge/-Megascans-1c1c1c?style=plastic&logo=megascans&logoColor=ff0000&labelColor=1c1c1c)&nbsp;
 
